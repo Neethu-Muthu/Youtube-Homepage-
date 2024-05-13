@@ -24,7 +24,7 @@ To set up the project locally, follow these steps:
 
 ## Clone the repository to your local machine:
 git clone <repository_url>
-Open the index.html file in your web browser to view the YouTube homepage.
+Open the youtube.html file in your web browser to view the YouTube homepage.
 ## Usage
 Once the project is set up, you can interact with the YouTube homepage to browse videos, search for content using the search bar, and navigate through different sections using the sidebar menu.
 ## Contributing
